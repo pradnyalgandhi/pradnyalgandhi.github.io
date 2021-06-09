@@ -91,7 +91,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #000200;
 }
 
 .overlay-mf {
@@ -101,7 +101,6 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .7;
 }
 
 .paralax-mf {
@@ -768,6 +767,7 @@ a:hover {
 /*======================================
 //--//-->   PORTFOLIO
 ======================================*/
+
 
 .work-box {
   margin-bottom: 3rem;
